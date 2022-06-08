@@ -23,6 +23,10 @@ var newsFeed = [
 		username: "David",
 		timeline: "I am heading to Disneyland. Felling exicited!"
 	},
+	{
+		username: "Ryan",
+		timeline: "So tired from all that learning!"
+	}
 
 ];
 
