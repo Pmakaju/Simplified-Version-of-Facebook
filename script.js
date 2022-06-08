@@ -2,8 +2,15 @@ var database = [
 	{
 		username: "Pradeep",
 		password: "supersecret"
+	},
+	{
+		username: "Neville",
+		password: "123"
+	},
+	{
+		username: "David",
+		password: "777"
 	}
-	
 ];
 
 
