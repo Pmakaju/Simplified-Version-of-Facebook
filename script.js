@@ -27,7 +27,6 @@ var newsFeed = [
 		username: "Ryan",
 		timeline: "So tired from all that learning!"
 	}
-
 ];
 
 function isUserValid(username, password){
@@ -35,7 +34,6 @@ function isUserValid(username, password){
 		if(database[i].username === username &&
 			database[i].password === password) {
 			return true;
-		 
 		}
 	}
 	return false;
